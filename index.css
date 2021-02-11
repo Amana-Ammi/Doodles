@@ -131,3 +131,12 @@ body {
     top: -38px;
     height: 20px;
 }
+
+.head {
+    background-color: rgb(104, 47, 6);
+    border-radius: 50%;
+    width: 270px;
+    height: 250px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
