@@ -202,3 +202,12 @@ body {
     margin-top: 25px;
     margin-left: 20px;
 }
+
+.nose {
+    background-color: black;
+    border-radius: 50%;
+    width: 40px;
+    height: 20px;
+    margin-top: 115px;
+    margin-left: 107px;
+}
