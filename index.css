@@ -211,3 +211,14 @@ body {
     margin-top: 115px;
     margin-left: 107px;
 }
+
+.smile {
+    background-color: black;
+    height: 45px;
+    width: 5px;
+    border-radius: 50%;
+    border-bottom-left-radius: 1000px;
+    border-bottom-right-radius: 1000px;
+    left: 124px;
+    position: absolute;
+}
