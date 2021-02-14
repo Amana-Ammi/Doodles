@@ -167,12 +167,19 @@ body {
     margin-left: 75px;
 }
 
+@keyframes eyechange {
+    to { background-color: purple;}
+}
+
 .pupil {
     background-color: black;
     border-radius: 50%;
     width: 30px;
     height: 30px;
     position: absolute;
+    animation-name: eyechange;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
 }
 
 .pupil1 {
